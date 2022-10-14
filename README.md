@@ -22,4 +22,26 @@
 ### Dataset
 The dataset was originally downloaded from Kaggle - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
+### Data Transformation
+* Dummy encoding has been applied on categorical features
+* Split the dataset into training and test sets (80% and 20%)
+
+### Hyperparameters 
+
+#### MLP:
+* learning_rate=0.1
+* momentum=0.90
+* hidden_size=200
+
+#### SVM:
+* C=0.1
+* degree=2
+* kernel=poly
+
+### Best Models 
+
+![image](https://user-images.githubusercontent.com/92123173/195879292-7c0b921e-5d47-40c9-9bc9-d0a03468af00.png)
+
+
+
 
