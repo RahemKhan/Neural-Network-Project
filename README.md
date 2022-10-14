@@ -43,5 +43,9 @@ The dataset was originally downloaded from Kaggle - https://www.kaggle.com/datas
 ![image](https://user-images.githubusercontent.com/92123173/195879292-7c0b921e-5d47-40c9-9bc9-d0a03468af00.png)
 
 
+### Conclusion
+* SVM outperformed MLP
+* MLP is more capable of computational training than SVM and has potential to outperform SVM when it is trained with bigger size of hidden layers.
+
 
 
